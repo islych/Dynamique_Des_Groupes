@@ -4,3 +4,6 @@ partie3-source.txt
 /*.png
 *.tmp
 *.log
+output/
+tmp/
+speech-slides.json

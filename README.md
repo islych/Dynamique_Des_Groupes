@@ -20,6 +20,8 @@ Ouvrir index.html dans un navigateur. Conserver les fichiers script.js, style.cs
 - Structuration et organisation des groupes.
 - Activités en groupe et mini-quiz final.
 
-Les illustrations et animations servent de supports pédagogiques. Le portrait de Kurt Lewin et les polices en ligne nécessitent une connexion Internet ; les scènes HTML/CSS et les images du dossier assets sont locales.
+Les illustrations et animations servent de supports pédagogiques. Le portrait, les illustrations et les animations sont locaux. Les polices en ligne sont facultatives : une police de secours est utilisée sans connexion.
 
 Présentation : Islam Chaachaa & Ayman Yassine.
+
+Les trois fichiers part1.mp4, part2.mp4 et part3.mp4 doivent rester à la racine, à côté de index.html. Les commandes permettent la lecture, la pause et le plein écran. La lecture s’arrête au changement de diapositive.
